@@ -1,16 +1,16 @@
-###Simple Calculator Project
-Personal Information
-Name: CHINTHAPARTHI CHETHAN
-Company: CODTECH IT SOLUTIONS
-ID: CT6CC1031
-Domain: CLOUD COMPUTING
-Duration: JULY to AUGUST 2024
-Mentor: Neela Santhosh Kumar
-Overview of the Project
+### *Simple Calculator Project**
+
+##  *Name*: CHINTHAPARTHI CHETHAN
+## *Company*: CODTECH IT SOLUTIONS
+## *ID*: CT6CC1031
+## *Domain*: PYTHON PROGRAMMING
+## *Duration*: JULY to SEPTEMBER 2024
+## *Mentor*: Neela Santhosh Kumar
+### Overview of the Project
 Project: Simple Calculator in Python
 This project is a basic Python calculator that performs simple arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is designed to be user-friendly, providing an easy interface for users to perform calculations.
 
-Features
+### Features
 The Python calculator includes the following features:
 
 Addition: Adds two numbers together.
@@ -55,7 +55,7 @@ Select operation:
 4. Division
 Enter choice (1/2/3/4): 1
 The result is: 15.0
-Code Overview
+### Code Overview
 Functions
 add(x, y)
 
@@ -71,6 +71,6 @@ divide(x, y)
 Returns the quotient of x divided by y. If y is zero, it returns a message indicating that division by zero is not allowed.
 Main Function: calculator()
 The calculator() function is the main entry point of the program. It handles user input, displays operation options, and calls the appropriate arithmetic function based on user selection.
-Conclusion
+### Conclusion
 This simple Python calculator project provides a fundamental understanding of how to create and implement basic arithmetic operations in Python. It also introduces error handling for scenarios like division by zero, making the calculator more robust and user-friendly.
 
