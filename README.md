@@ -2,7 +2,7 @@
 
 ##  *Name*: CHINTHAPARTHI CHETHAN
 ## *Company*: CODTECH IT SOLUTIONS
-## *ID*: CT6CC1031
+## *ID*: CT6WDS1396
 ## *Domain*: PYTHON PROGRAMMING
 ## *Duration*: JULY to SEPTEMBER 2024
 ## *Mentor*: Neela Santhosh Kumar
